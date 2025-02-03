@@ -1594,7 +1594,7 @@ section {
 }
 .slider-item img {
   width: 100%;
-  height: auto;
+  height: 50%;
 }
 .slider-content-area {
   position: absolute;
