@@ -1590,16 +1590,16 @@ section {
 .slider-item {
   position: relative;
   max-height: 100%;
-  height: auto;
+  height: 30%;
 }
 .slider-item img {
   width: 100%;
-  height: 50%;
+  height: 30%;
 }
 .slider-content-area {
   position: absolute;
   width: 100%;
-  height: auto;
+  height: 30%;
   left: 0;
   top: 50%;
   -webkit-transform: translateY(-50%);
