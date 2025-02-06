@@ -1099,7 +1099,7 @@ section {
 }
 
 .bg-page-header {
-  background: url(../images/about/bg-page-header.jpg) no-repeat;
+  background: url(../assets/images/about/bg-page-header.jpg) no-repeat;
   background-size: cover;
   background-position: 50% 50%;
   height: 120px;
